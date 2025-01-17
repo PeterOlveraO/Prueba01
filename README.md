@@ -1,5 +1,5 @@
 # Cosas basicas de git
-pruebabasasas
+Autor: Pedro Olvera
 
 Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
 
