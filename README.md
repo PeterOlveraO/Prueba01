@@ -13,4 +13,6 @@ git push origin - Subir el commit a github
 git status - Cambios que se hicieron
 git add "nombre.extencion" - agrega el archivo al repositorio
 
+git fetch - descarga las actualizaciones que se hicieron del github
+git pull origin main - Actualiza mis archivos locales con la informacion actualizada
 
