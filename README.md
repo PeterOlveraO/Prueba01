@@ -1,6 +1,8 @@
 # Prueba01
 pruebabasasas
 
+Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
+
 Resumen:
 cd "ruta" - seleciccionar la ruta donde trabajar la raiz es: C:\Users\End User
 mkdir "nombre de la carpeta" - Crear una carpeta en la ubicacion raiz o seleccionada
