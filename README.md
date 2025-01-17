@@ -1,4 +1,4 @@
-# Prueba01
+# Cosas basicas de git
 pruebabasasas
 
 Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
