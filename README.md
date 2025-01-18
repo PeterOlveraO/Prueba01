@@ -1,7 +1,10 @@
 # Cosas basicas de git
 Autor: Pedro Olvera
 main
-Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
+
+Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados.
+
+Al cambiar de rama se actualizara el codigo al commit final de la rama.
 
 Resumen:
 
