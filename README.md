@@ -25,6 +25,7 @@ git fetch - descarga las actualizaciones que se hicieron del github
 git pull origin "Nombre de la rama" - Actualiza mis archivos locales con la informacion actualizada
 git branch "Nombre de la rama" - Crea una rama nueva
 git checkout "Nombre de la rama" - Usa la rama seleccionada
+git checkout -B "Nombre de la rama " - Sirve para crear y usar una nueva rama
 
 --No se como es que lo hace--
-git clone "repo" - clona repositorio en el dispositivo
+git clone "repo" - clona repositorio en el dispositivo.
