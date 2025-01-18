@@ -1,7 +1,10 @@
 # Cosas basicas de git
 Autor: Pedro Olvera
 main
-Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
+
+Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados.
+
+Al cambiar de rama se actualizara el codigo al commit final de la rama.
 
 Resumen:
 
@@ -22,6 +25,7 @@ git fetch - descarga las actualizaciones que se hicieron del github
 git pull origin "Nombre de la rama" - Actualiza mis archivos locales con la informacion actualizada
 git branch "Nombre de la rama" - Crea una rama nueva
 git checkout "Nombre de la rama" - Usa la rama seleccionada
+git checkout -B "Nombre de la rama " - Sirve para crear y usar una nueva rama
 
 --No se como es que lo hace--
-git clone "repo" - clona repositorio en el dispositivo
+git clone "repo" - clona repositorio en el dispositivo.
