@@ -1,6 +1,6 @@
 # Cosas basicas de git
 Autor: Pedro Olvera
-Desarrollador 1
+main
 Los commits se hacen en general con todos los archivos que se modificarion igual los push origin pero solo se modifica la historia de los archivos modificados
 
 Resumen:
